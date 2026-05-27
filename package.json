@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1",
+    "playwright-bdd": "^8.5.1"
+  },
+  "scripts": {
+    "test": " bddgen && playwright test"
+  }
+}
