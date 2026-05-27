@@ -1,0 +1,24 @@
+{
+  "name": "ai-automationwithplaywright",
+  "version": "1.0.0",
+  "description": "Proyecto en el que aprendo a implementar un flujo completo de automatización con Playwright, integrando uso de agentes IA, buenas practicas con el patrón POM y metodología BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliecerU/ai-automationwithplaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EliecerU/ai-automationwithplaywright/issues"
+  },
+  "homepage": "https://github.com/EliecerU/ai-automationwithplaywright#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.9.0"
+  }
+}
